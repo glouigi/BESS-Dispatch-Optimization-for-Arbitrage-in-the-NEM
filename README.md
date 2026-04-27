@@ -14,7 +14,7 @@ ____________________________________________
   Electrical Engineer | Power Systems & Data Analytics<br>
   
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/glouigi)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/giorgio-ramirez-quiroz)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-ramirez-quiroz)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:g.ramirezqui@gmail.com)
 </div>
 
