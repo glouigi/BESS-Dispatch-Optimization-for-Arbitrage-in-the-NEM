@@ -1,0 +1,34 @@
+# ── Core Scientific Stack ──────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+pyarrow>=12.0.0        # Parquet caching for NEMOSIS data
+
+# ── Machine Learning ───────────────────────────────────────────────
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.1.0
+
+# ── Optimisation ───────────────────────────────────────────────────
+cvxpy>=1.4.0           # LP/MILP dispatch solver (GLPK_MI backend)
+
+# ── AEMO Data ──────────────────────────────────────────────────────
+nemosis>=3.3.0         # Real AEMO TRADINGPRICE data
+
+# ── Visualisation ──────────────────────────────────────────────────
+matplotlib>=3.7.0
+plotly>=5.18.0         # Interactive charts in Streamlit app
+
+# ── Web App ────────────────────────────────────────────────────────
+streamlit>=1.30.0
+
+# ── Notebooks ─────────────────────────────────────────────────────
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+ipykernel>=6.0.0
+
+# ── Hyperparameter Optimisation (optional) ─────────────────────────
+optuna>=3.4.0
+
+# ── Interpretability (optional) ────────────────────────────────────
+shap>=0.44.0

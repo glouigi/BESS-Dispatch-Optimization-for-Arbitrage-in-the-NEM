@@ -1,0 +1,48 @@
+# ── Python ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*_executed.ipynb
+
+# ── Environments ───────────────────────────────────────────────────────
+.env
+.venv
+venv/
+env/
+.conda/
+
+# ── Data (large — use DVC or Git LFS) ─────────────────────────────────
+data/raw_nemosis/
+data/*.parquet
+data/*.csv
+# Keep directory structure
+!data/.gitkeep
+
+# ── Models (large binary files) ────────────────────────────────────────
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# ── Outputs (regenerated on each run) ──────────────────────────────────
+outputs/*.png
+outputs/*.csv
+!outputs/.gitkeep
+
+# ── OS ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# ── Logs & databases ───────────────────────────────────────────────────
+*.log
+logs/
+mlruns/
+*.db
