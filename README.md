@@ -1,12 +1,15 @@
 # ⚡ BESS Dispatch Optimization for Arbitrage in the NEM
 
-**ML Price Forecasting → Battery Storage Optimal Dispatch across all NEM regions**
+## ML Price Forecasting → Battery Storage Optimal Dispatch across all NEM regions
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](BESS_Optimized_Dispatch.ipynb)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Control_Room_App-ff4b4b?logo=streamlit)](app.py)
 [![AEMO](https://img.shields.io/badge/Data-AEMO_TRADINGPRICE-0078d4)](https://nemweb.com.au)
 [![Framework](https://img.shields.io/badge/Master_ML%2FDL-12_Steps-c084fc)](BESS_Optimized_Dispatch.ipynb)
+
+
+**Giorgio Ramirez Quiroz | Electrical Engineer**
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/glouigi)](https://github.com/glouigi)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/giorgio-louigi-ramirez-quiroz-924a2872)](https://www.linkedin.com/in/giorgio-louigi-ramirez-quiroz-924a2872/)
