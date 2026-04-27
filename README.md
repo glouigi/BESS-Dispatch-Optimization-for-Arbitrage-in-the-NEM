@@ -213,9 +213,6 @@ bess-optimized-dispatch/
 
 ---
 
-## 📄 License
-
-MIT — see [LICENSE](LICENSE)
 
 ## 📚 References
 
